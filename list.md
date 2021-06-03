@@ -40,6 +40,7 @@ Programming
     * Free api's: https://github.com/public-apis/public-apis
     * How BGP works (headscratching continues): https://softwareengineeringdaily.com/2020/12/02/bgp-with-andree-toonk/
     * TMUX cheat sheet: https://gist.github.com/henrik/1967800
+    * Pretty code displayer: https://carbon.now.sh/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
 
