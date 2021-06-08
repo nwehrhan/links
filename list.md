@@ -77,8 +77,11 @@ Programming
   * Free video and images: https://pixabay.com/videos/
 
 * Fitness
- * Run by parks: https://trailrouter.com/
+  * Run by parks: https://trailrouter.com/
 
 * Music
   * Lofi music and visuals https://www.lofi.cafe/
+
+* Language
+  * Learn through netflix: https://languagelearningwithnetflix.com/instructions.html
   
