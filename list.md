@@ -16,6 +16,7 @@ Programming
      * Very interesting article on laravel dep injection: https://alanstorm.com/laravel_service_manager_indirection/
      * Bot for Langauge in php: https://botman.io/
      * Flate file db for php: https://sleekdb.github.io/
+     * Build command line tools with laravel: https://laravel-zero.com/
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
   * HTML
