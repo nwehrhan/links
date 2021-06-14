@@ -17,6 +17,7 @@ Programming
      * Bot for Langauge in php: https://botman.io/
      * Flate file db for php: https://sleekdb.github.io/
      * Build command line tools with laravel: https://laravel-zero.com/
+     * Laravel api creator: https://tailflow.github.io/laravel-orion-docs/
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
   * HTML
@@ -42,6 +43,9 @@ Programming
     * How BGP works (headscratching continues): https://softwareengineeringdaily.com/2020/12/02/bgp-with-andree-toonk/
     * TMUX cheat sheet: https://gist.github.com/henrik/1967800
     * Pretty code displayer: https://carbon.now.sh/
+    * Terminal app for fuzzy searching: https://github.com/junegunn/fzf
+    * Terminal cat but with wings: https://github.com/sharkdp/bat
+    * Better grep: https://github.com/BurntSushi/ripgrep
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
 
