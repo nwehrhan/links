@@ -18,6 +18,7 @@ Programming
      * Flate file db for php: https://sleekdb.github.io/
      * Build command line tools with laravel: https://laravel-zero.com/
      * Laravel api creator: https://tailflow.github.io/laravel-orion-docs/
+     * PHP env helper: https://github.com/phpenv/phpenv
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
   * HTML
