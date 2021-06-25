@@ -49,6 +49,7 @@ Programming
     * Better grep: https://github.com/BurntSushi/ripgrep
     * Cool random string identification: https://github.com/bee-san/pyWhat
     * Modern Linux tools: https://github.com/ibraheemdev/modern-unix
+    * AI linter: https://www.sonarlint.org/vscode/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
