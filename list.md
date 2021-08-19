@@ -21,6 +21,8 @@ Programming
      * Build command line tools with laravel: https://laravel-zero.com/
      * Laravel api creator: https://tailflow.github.io/laravel-orion-docs/
      * PHP env helper: https://github.com/phpenv/phpenv
+     * Laravel learning: https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path
+     * 
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
   * HTML
@@ -36,7 +38,7 @@ Programming
     * Remove JS from SPA with interia: https://reinink.ca/articles/introducing-inertia-js
     * Good/easy js visulizer lib: https://ptsjs.org
     * Simple JS explainer for newer js: https://javascript.info/js
-    * 
+    * Php guides: https://phptherightway.com/
  * MISC
     * Random dev tips: https://umaar.com/dev-tips/
     * Cool walk along coding tutorials: https://scrimba.com/
@@ -52,6 +54,7 @@ Programming
     * Cool random string identification: https://github.com/bee-san/pyWhat
     * Modern Linux tools: https://github.com/ibraheemdev/modern-unix
     * AI linter: https://www.sonarlint.org/vscode/
+    * Parameter covariance: https://stackoverflow.com/questions/11493902/parameter-type-covariance-in-specializations
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
