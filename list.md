@@ -55,6 +55,7 @@ Programming
     * Modern Linux tools: https://github.com/ibraheemdev/modern-unix
     * AI linter: https://www.sonarlint.org/vscode/
     * Parameter covariance: https://stackoverflow.com/questions/11493902/parameter-type-covariance-in-specializations
+    * Hurl dev, curl assertions: https://hurl.dev/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
