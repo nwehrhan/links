@@ -39,6 +39,7 @@ Programming
     * Good/easy js visulizer lib: https://ptsjs.org
     * Simple JS explainer for newer js: https://javascript.info/js
     * Php guides: https://phptherightway.com/
+    * Typescript tips: https://www.cstrnt.dev/blog/three-typescript-tricks
  * MISC
     * Random dev tips: https://umaar.com/dev-tips/
     * Cool walk along coding tutorials: https://scrimba.com/
