@@ -40,6 +40,8 @@ Programming
     * Simple JS explainer for newer js: https://javascript.info/js
     * Php guides: https://phptherightway.com/
     * Typescript tips: https://www.cstrnt.dev/blog/three-typescript-tricks
+    * Js build system: https://www.snowpack.dev/
+    * Js builder: https://vitejs.dev/guide/comparisons.html#snowpack
  * MISC
     * Random dev tips: https://umaar.com/dev-tips/
     * Cool walk along coding tutorials: https://scrimba.com/
