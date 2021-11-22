@@ -61,6 +61,7 @@ Programming
     * Parameter covariance: https://stackoverflow.com/questions/11493902/parameter-type-covariance-in-specializations
     * Hurl dev, curl assertions: https://hurl.dev/
     * Static site generator: https://www.11ty.dev/docs/
+    * Zola fast static site: https://www.getzola.org/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
