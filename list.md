@@ -9,6 +9,7 @@ Devops
   * Run your own heroku: https://dokku.com/
   * Easy dev env's: https://docs.lando.dev/
   * MTR for tracing routes https://en.wikipedia.org/wiki/MTR_(software)
+  * Learn nix: https://ianthehenry.com/posts/how-to-learn-nix/
 
 Programming
   * PHP
