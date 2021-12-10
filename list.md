@@ -63,6 +63,7 @@ Programming
     * Hurl dev, curl assertions: https://hurl.dev/
     * Static site generator: https://www.11ty.dev/docs/
     * Zola fast static site: https://www.getzola.org/
+    * New css compiler tailwind vs windicss vs unocss: https://researchgate.slack.com/archives/GR3Q9K1EF/p1639057974161100
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
