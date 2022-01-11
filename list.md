@@ -103,6 +103,7 @@ Programming
   * DIY blue bowl for gold panning: https://www.prospectingaustralia.com.au/forum/viewtopic.php?id=913
   * Best scratch off odds updated: https://scratchoff-odds.com/
   * Free video and images: https://pixabay.com/videos/
+  * Native webapp maker: https://capacitorjs.com/
 
 * Fitness
   * Run by parks: https://trailrouter.com/
