@@ -67,6 +67,7 @@ Programming
     * Zola fast static site: https://www.getzola.org/
     * New css compiler tailwind vs windicss vs unocss: https://researchgate.slack.com/archives/GR3Q9K1EF/p1639057974161100
     * HTTP inspector: https://httptoolkit.tech/
+    * Automate stuff with python: https://automatetheboringstuff.com/#toc
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
