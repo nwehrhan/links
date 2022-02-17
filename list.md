@@ -71,6 +71,8 @@ Programming
     * HTTP inspector: https://httptoolkit.tech/
     * Automate stuff with python: https://automatetheboringstuff.com/#toc
     * Git cleaner: https://rtyley.github.io/bfg-repo-cleaner/
+    * Cool auth company: https://www.ory.sh/
+    * Accept giftcards as payments: https://www.paygarden.com/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
