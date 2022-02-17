@@ -70,6 +70,7 @@ Programming
     * New css compiler tailwind vs windicss vs unocss: https://antfu.me/posts/reimagine-atomic-css
     * HTTP inspector: https://httptoolkit.tech/
     * Automate stuff with python: https://automatetheboringstuff.com/#toc
+    * Git cleaner: https://rtyley.github.io/bfg-repo-cleaner/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
