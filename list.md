@@ -73,6 +73,7 @@ Programming
     * Git cleaner: https://rtyley.github.io/bfg-repo-cleaner/
     * Cool auth company: https://www.ory.sh/
     * Accept giftcards as payments: https://www.paygarden.com/
+    * Interpret MTR: https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
