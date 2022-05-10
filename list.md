@@ -102,6 +102,7 @@ Programming
   * Tech lead books: https://sourcelevel.io/blog/3-classic-books-for-tech-leads-or-those-aspiring-to-be
   * Laravel book for large apps: https://laravel-beyond-crud.com/
   * Book on bannana king: https://bookshop.org/books/the-fish-that-ate-the-whale-the-life-and-times-of-america-s-banana-king/9781250033314
+  * Money: https://www.goodreads.com/book/show/8182647-the-money-machine
 
 * Interview
   * Questions to ask interviewer: https://github.com/viraptor/reverse-interview
