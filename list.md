@@ -11,6 +11,7 @@ Devops
   * MTR for tracing routes https://en.wikipedia.org/wiki/MTR_(software)
   * Learn nix: https://ianthehenry.com/posts/how-to-learn-nix/
   * Tailscale is virtural networks made easy: https://tailscale.com/
+  * Serverless env for dev: https://serverless-stack.com/
 
 Programming
   * PHP
@@ -78,6 +79,8 @@ Programming
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
    * Machine learning parse person name: https://github.com/datamade/probablepeople
+   * File differ cli: https://github.com/Wilfred/difftastic
+   * Blog on why litestream db is easy and good: https://fly.io/blog/all-in-on-sqlite-litestream/
 
 * Design
   * SVG animator (super easy): https://getloaf.io/
