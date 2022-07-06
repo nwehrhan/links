@@ -77,6 +77,7 @@ Programming
     * Accept giftcards as payments: https://www.paygarden.com/
     * Interpret MTR: https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/
     * Pull layered git repos easily: https://github.com/x-motemen/ghq
+    * Functional programming jargon: https://github.com/hemanth/functional-programming-jargon
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
