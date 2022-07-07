@@ -50,6 +50,11 @@ Programming
     * Js build system: https://www.snowpack.dev/
     * Js builder: https://vitejs.dev/guide/comparisons.html#snowpack
     * Client side db: https://tinybase.org/
+
+ * Database stuff
+    * db but has git history: https://www.dolthub.com/
+
+
  * MISC
     * Random dev tips: https://umaar.com/dev-tips/
     * Cool walk along coding tutorials: https://scrimba.com/
