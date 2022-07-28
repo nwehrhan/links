@@ -53,6 +53,7 @@ Programming
 
  * Database stuff
     * db but has git history: https://www.dolthub.com/
+    * Hosted graphql database
 
 
  * MISC
@@ -117,6 +118,7 @@ Programming
 
 * Travel
   * Hotsprings route Canada: https://www.hellobc.com/road-trips/hot-springs-circle-route/
+  * Airbnb compare: https://hichee.com/
 
 * MISC
   * DIY blue bowl for gold panning: https://www.prospectingaustralia.com.au/forum/viewtopic.php?id=913
