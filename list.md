@@ -50,10 +50,11 @@ Programming
     * Js build system: https://www.snowpack.dev/
     * Js builder: https://vitejs.dev/guide/comparisons.html#snowpack
     * Client side db: https://tinybase.org/
+    * ServerJS super fast and small can add to vue/react: https://astro.build/
 
  * Database stuff
     * db but has git history: https://www.dolthub.com/
-    * Hosted graphql database
+    * Hosted graphql database: https://grafbase.com/
 
 
  * MISC
@@ -119,12 +120,17 @@ Programming
 * Travel
   * Hotsprings route Canada: https://www.hellobc.com/road-trips/hot-springs-circle-route/
   * Airbnb compare: https://hichee.com/
+  * Flight watcher: https://faredrop.com/
 
 * MISC
   * DIY blue bowl for gold panning: https://www.prospectingaustralia.com.au/forum/viewtopic.php?id=913
   * Best scratch off odds updated: https://scratchoff-odds.com/
   * Free video and images: https://pixabay.com/videos/
   * Native webapp maker: https://capacitorjs.com/
+  * Send money cheap: https://atlantic.money/
+  * 3rd party iphone backups: https://imazing.com/
+
+  * Artisan key caps: https://www.jellykey.com/artisan-keycaps/
 
 * Fitness
   * Run by parks: https://trailrouter.com/
