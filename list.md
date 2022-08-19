@@ -121,6 +121,7 @@ Programming
   * Hotsprings route Canada: https://www.hellobc.com/road-trips/hot-springs-circle-route/
   * Airbnb compare: https://hichee.com/
   * Flight watcher: https://faredrop.com/
+  * Airline seat map: https://www.aerolopa.com/
 
 * MISC
   * DIY blue bowl for gold panning: https://www.prospectingaustralia.com.au/forum/viewtopic.php?id=913
