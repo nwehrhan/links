@@ -29,7 +29,11 @@ Programming
      * PHP file locking for saving/writing: http://www.hackingwithphp.com/8/11/0/locking-files-with-flock
      * PHP serverless: https://bref.sh/docs/
      * PHP servless course: https://serverless-visually-explained.com/?affiliate_id=575280243&ref=stitcher
-     * simple PHP dependency container: https://php-di.org/
+     * Simple PHP dependency container: https://php-di.org/
+     * PHP architecture enforcer for phpstan: https://github.com/carlosas/phpat
+     * PHP architecture enforcer standalone: https://github.com/phparkitect/arkitect
+     * Headless ecommerce: https://sylius.com/
+
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
   * HTML
