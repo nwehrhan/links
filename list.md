@@ -33,6 +33,7 @@ Programming
      * PHP architecture enforcer for phpstan: https://github.com/carlosas/phpat
      * PHP architecture enforcer standalone: https://github.com/phparkitect/arkitect
      * Headless ecommerce: https://sylius.com/
+     * Composer checker: https://semver.madewithlove.com/?package=friendsofphp%2Fphp-cs-fixer&constraint=~3.4&stability=stable
 
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
