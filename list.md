@@ -4,6 +4,7 @@ Cyber Security
   * Courses for cyber security on udemy (liked this company): https://zsecurity.org/courses/
   * Read team course: https://www.offensive-security.com/pwk-oscp/
   * Sec list of lists: https://github.com/danielmiessler/SecLists
+  * Phisher templates: https://github.com/KasRoudra/PyPhisher
 
 Devops
   * Deployment engine for web apps: https://caprover.com/
