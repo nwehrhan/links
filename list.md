@@ -5,6 +5,7 @@ Cyber Security
   * Read team course: https://www.offensive-security.com/pwk-oscp/
   * Sec list of lists: https://github.com/danielmiessler/SecLists
   * Phisher templates: https://github.com/KasRoudra/PyPhisher
+  * Osint collection: https://github.com/cipher387/osint_stuff_tool_collection
 
 Devops
   * Deployment engine for web apps: https://caprover.com/
@@ -14,6 +15,8 @@ Devops
   * Learn nix: https://ianthehenry.com/posts/how-to-learn-nix/
   * Tailscale is virtural networks made easy: https://tailscale.com/
   * Serverless env for dev: https://serverless-stack.com/
+  * Manage k8's via cmd line: https://k9scli.io/
+  * Cli for k8's: https://eksctl.io/
 
 Programming
   * PHP
