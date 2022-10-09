@@ -38,6 +38,8 @@ Programming
      * PHP architecture enforcer standalone: https://github.com/phparkitect/arkitect
      * Headless ecommerce: https://sylius.com/
      * Composer checker: https://semver.madewithlove.com/?package=friendsofphp%2Fphp-cs-fixer&constraint=~3.4&stability=stable
+     * PHPPEST testing: https://pestphp.com/
+     * Patch missing sqllite functions: https://bannister.me/blog/using-mysql-and-postgres-functions-in-sqlite
 
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
@@ -108,6 +110,8 @@ Programming
   * Tailwind builder (also have builders for bootstrap etc): https://tailwind.build/
   * People svg's free: https://www.humaaans.com/
   * Cool lazy load method: https://jmperezperez.com/svg-placeholders/
+  * Free figma: https://penpot.app/
+  * 
 
 
 * Maker
@@ -140,6 +144,7 @@ Programming
   * Native webapp maker: https://capacitorjs.com/
   * Send money cheap: https://atlantic.money/
   * 3rd party iphone backups: https://imazing.com/
+  * Large file syncing: https://syncthing.net/
 
   * Artisan key caps: https://www.jellykey.com/artisan-keycaps/
 
