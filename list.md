@@ -98,6 +98,7 @@ Programming
     * Functional programming jargon: https://github.com/hemanth/functional-programming-jargon
     * zanzibar auth db: https://github.com/authzed/spicedb
     * Outsource configs: https://configcat.com/
+    * Cool pattern explainer page: https://www.patterns.dev/
  * AI
    * Free google course on machine learning: https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
    * Machine learning parse address: https://github.com/datamade/usaddress
