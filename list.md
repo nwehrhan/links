@@ -62,6 +62,7 @@ Programming
     * Js builder: https://vitejs.dev/guide/comparisons.html#snowpack
     * Client side db: https://tinybase.org/
     * ServerJS super fast and small can add to vue/react: https://astro.build/
+    * React users: https://github.com/streamich/react-use
 
  * Database stuff
     * db but has git history: https://www.dolthub.com/
