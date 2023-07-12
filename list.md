@@ -114,7 +114,7 @@ Programming
   * People svg's free: https://www.humaaans.com/
   * Cool lazy load method: https://jmperezperez.com/svg-placeholders/
   * Free figma: https://penpot.app/
-  * 
+  * Type safe css: https://panda-css.com/
 
 
 * Maker
