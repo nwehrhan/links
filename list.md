@@ -115,7 +115,7 @@ Programming
   * Cool lazy load method: https://jmperezperez.com/svg-placeholders/
   * Free figma: https://penpot.app/
   * Type safe css: https://panda-css.com/
-  * Icons https://icones.js.org/ & https://iconbuddy.app/
+  * Icons https://icones.js.org/ & https://iconbuddy.app/ & https://iconify.design/getting-started/
 
 
 * Maker
