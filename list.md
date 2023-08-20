@@ -40,6 +40,7 @@ Programming
      * Composer checker: https://semver.madewithlove.com/?package=friendsofphp%2Fphp-cs-fixer&constraint=~3.4&stability=stable
      * PHPPEST testing: https://pestphp.com/
      * Patch missing sqllite functions: https://bannister.me/blog/using-mysql-and-postgres-functions-in-sqlite
+     * Thermal paper printing: https://github.com/mike42/escpos-php/
 
   * Testing
     * Unit testing examples in php: https://github.com/sarven/unit-testing-tips
